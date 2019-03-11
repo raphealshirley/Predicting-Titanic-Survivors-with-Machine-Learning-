@@ -2,7 +2,7 @@
 
 1.Get Data Overview.<br/>
 2.Drop unrelated feature, and features with too many missing value.<br/>
-![](./resources/datahead.png =20*20)
+![](./resources/datahead.png =20x20)
 3. Visualizing survived and failed people.<br/>
 ![](./resources/surfail.png)
 ![](./resources/age.png)
